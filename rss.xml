@@ -7,3 +7,4 @@ with open('test.txt') as f:
                     dtest_txt = f.read()
                     print(test_txt)
 dddfd
+dfd
