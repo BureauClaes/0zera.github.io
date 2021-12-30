@@ -8,6 +8,14 @@
   <title>Pynobot - Rss</title>
   <link>https://0zera.github.io/</link>
   
+   <!--ITEMS 02-->
+  <item>
+    <title>Item 3</title>
+    <description>Description de l'épingle</description>
+    <enclosure url="https://i.pinimg.com/564x/8c/37/c8/8c37c8fc3de903dc097ed8c3c3337112.jpg"/>
+    <link>https://0zera.github.io/</link>
+  </item> 
+  
   <!--ITEMS 02-->
   <item>
     <title>New</title>
