@@ -7,8 +7,16 @@
   <description/>
   <title>Pynobot - Rss</title>
   <link>https://0zera.github.io/</link>
-
-  <!--ITEMS-->
+  
+  <!--ITEMS 02-->
+  <item>
+    <title>Titre de l'épingle</title>
+    <description>Description de l'épingle</description>
+    <enclosure url="https://64.media.tumblr.com/c1dc6436107838e077906bc30274f3a1/68c2a30495a9707f-31/s2048x3072/a66fca1d539ce84578d97f4149828ae726a5d2f9.jpg"/>
+    <link>https://0zera.github.io/</link>
+  </item>
+  
+  <!--ITEMS 01-->
   <item>
     <title>Titre de l'épingle</title>
     <description>Description de l'épingle</description>
