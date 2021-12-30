@@ -1,10 +1,1 @@
-
-with open('test.txt') as f:
-    test_txt = f.read()
-    print(test_txt)    with open('test.txt') as f:
-            test_txt = f.read()
-            print(test_txt)    with open('test.txt') as f:
-                    dtest_txt = f.read()
-                    print(test_txt)
-dddfd
-dfdddd
+MM
