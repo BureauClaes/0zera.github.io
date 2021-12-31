@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+
+  <!--BASIC-->
+  <description/>
+  <title>Pynobot - Rss</title>
+  <link>https://0zera.github.io/</link>
+  
+  <!--ITEMS 02-->
+  <item>
+    <title>New</title>
+    <description>Description de l'épingle</description>
+    <enclosure url="https://i.pinimg.com/564x/5a/e9/f4/5ae9f4ebae8c09328a189424ade4b3eb.jpg"/>
+    <link>https://0zera.github.io/</link>
+  </item>
+
+
+</channel>
+</rss>
