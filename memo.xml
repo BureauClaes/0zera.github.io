@@ -11,8 +11,8 @@
   <!--BASIC ITEMS -->
   <item>
     <title>Salut je suis le titre</title>
-    <description>la description blala</description>
-    <enclosure url="www.monimageee.jpg"/>
+    <description>description</description>
+    <enclosure url="urlll"/>
     <link>https://0zera.github.io/</link>
   </item>
 
