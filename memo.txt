@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 
-Coala
-Murielle
+<channel>
+
+  <!--BASIC-->
+  <description/>
+  <title>Pynobot - Rss</title>
+  <link>https://0zera.github.io/</link>
+
+  <!--BASIC ITEMS -->
+  <item>
+    <title></title>
+    <description></description>
+    <enclosure url="www.monimage.jpg"/>
+    <link>https://0zera.github.io/</link>
+  </item>
+
+</channel>
+</rss>
