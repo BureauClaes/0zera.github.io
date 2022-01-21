@@ -4,10 +4,10 @@
 <channel>
 
   <!--BASIC-->
-  <description/>
   <title>Pynobot - Rss</title>
+  <description>Pynbot pour Pinterest avec Python</description>
   <link>https://0zera.github.io/</link>
-  <lastBuildDate>Thu, 27 Apr 2006</lastBuildDate>
+  <lastBuildDate>Sat, 01 May 2021 23:06:42 UTC</lastBuildDate>
 
   <!--BASIC ITEMS -->
   <item>
