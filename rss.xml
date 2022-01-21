@@ -5,14 +5,18 @@
 
   <!--BASIC-->
   <title>Pynobot - Rss</title>
-  <description>Description de l'épingle</description>
+  <description>Pynbot pour Pinterest avec Python</description>
   <link>https://0zera.github.io/</link>
-  
+  <!--<lastBuildDate>Sun, 02 May 2021 23:06:42 UTC</lastBuildDate>-->
+
+  <!--BASIC ITEMS -->
   <item>
-    <title>Titre de l'épingle</title>
-    <description>Description de l'épingle</description>
-    <enclosure url="https://64.media.tumblr.com/b6b71d0781f3db727b7c00ac21872d8b/f2f832b0a2c269bf-97/s500x750/b5e2312a4962dd1b137d5f955a2632e3e9b99f07.jpg"/>
+    <title>hey</title>
+    <description>Neww</description>
+    <enclosure url="https://neeww.org" />
     <link>https://0zera.github.io/</link>
+    <pubDate>Sun, 02 May 2021 23:06:42 UTC</pubDate>
+
   </item>
 
 </channel>
