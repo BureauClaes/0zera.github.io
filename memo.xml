@@ -7,7 +7,15 @@
   <description/>
   <title>Pynobot - Rss</title>
   <link>https://0zera.github.io/</link>
-
+  
+  <!--BASIC ITEMS -->
+  <item>
+    <title>Nouveauu</title>
+    <description>test</description>
+    <enclosure url="https://nooon.org" />
+    <link>https://0zera.github.io/</link>
+  </item>
+  
   <!--BASIC ITEMS -->
   <item>
     <title>SalutSalut</title>
