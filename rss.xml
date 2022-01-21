@@ -7,7 +7,6 @@
   <title>Pynobot - Rss</title>
   <description>Pynbot pour Pinterest avec Python</description>
   <link>https://0zera.github.io/</link>
-  <atom:link href="https://0zera.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
 
   <!--BASIC ITEMS -->
