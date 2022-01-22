@@ -11,16 +11,6 @@
  
   <!--BASIC ITEMS -->
   <item>
-    <title>Nouvelle IMAge</title>
-    <description>Nouvdeau Test</description>
-    <enclosure url=""/>
-    <guid></guid>
-    <link>https://0zera.github.io/</link>
-    <pubDate>Sat, 07 Sep 2008 00:00:01 GMT</pubDate>
-  </item>
-  
-  <!--BASIC ITEMS -->
-  <item>
     <title>Nouveau Test</title>
     <description>Nouveau Test</description>
     <enclosure url="https://i.pinimg.com/736x/b1/19/72/b1197270e41508007430127a57e3f56c.jpg"/>
