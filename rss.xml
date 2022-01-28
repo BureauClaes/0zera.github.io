@@ -7,25 +7,18 @@
   <title>Pynobot - Rss</title>
   <description>Pynbot pour Pinterest avec Python</description>
   <link>https://0zera.github.io/</link>
-  <lastBuildDate>Sat, 07 Sep 2010 00:00:01 GMT</lastBuildDate>
-  
-   <item>
-    <title>new</title>
-    <description>NOUVEAU</description>
-    <enclosure url="https://i.pinimg.com/474x/b1/19/72/b1197270e41508007430127a57e3f56c.jpg"/>
-    <guid>https://i.pinimg.com/474x/b1/19/72/b1197270e41508007430127a57e3f56c.jpg</guid>
-    <link>https://0zera.github.io/</link>
-    <pubDate>Sat, 07 Sep 2010 00:00:01 GMT</pubDate>
-  </item>
-  
+  <lastBuildDate>Sat, 07 Sep 2003 00:00:01 GMT</lastBuildDate>
+
+
   <!--BASIC ITEMS -->
   <item>
-    <title>NOUVEAU</title>
-    <description>NOUVEAU</description>
-    <enclosure url="NOUVEAU"/>
-    <guid>NOUVEAU</guid>
+    <title>Hey</title>
+    <description>Neww</description>
+    <enclosure url="https://neeww.org" />
+    <guid>https://neeww.org</guid>
     <link>https://0zera.github.io/</link>
-    <pubDate>Sat, 07 Sep 2009 00:00:01 GMT</pubDate>
+    <pubDate>Sat, 07 Sep 2003 00:00:01 GMT</pubDate>
+
   </item>
 
 </channel>
