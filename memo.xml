@@ -2,28 +2,65 @@
 <rss version="2.0">
 
 <channel>
-
-  <!--BASIC-->
-  <title>Pynobot - Rss</title>
-  <description>Pynbot pour Pinterest avec Python</description>
-  <link>https://0zera.github.io/</link>
-  <!--<lastBuildDate>Sun, 02 May 2021 23:06:42 UTC</lastBuildDate>-->
-
-  <!--BASIC ITEMS -->
-   <item>
-    <title>Neew</title>
-    <description>Neww</description>
-    <enclosure url="https://neeww.org" />
-    <link>https://0zera.github.io/</link>
-  </item>
-  
+  <title>Baserow Releases</title>
+  <link>https://baserow.io/blog/category/release</link>
+  <description>Stay up to date with the latest changes and updates of Baserow</description>
   <item>
-    <title>hey</title>
-    <description>Neww</description>
-    <enclosure url="https://neeww.org" />
-    <link>https://0zera.github.io/</link>
-    <!--<pubDate>Sun, 02 May 2021 23:06:42 UTC</pubDate>-->
-  </item>
+  <title>Retro  </title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:26:19 GMT</pubDate>
+  <image>undefined</image>
 
+</item>
+<item>
+  <title>Retro  </title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:10:30 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
+<item>
+  <title>Retro Fan van ontwerpen uit de jaren '70 ? Focus op het kussenhoes Joan van getuft katoen, vintage spirit. Het geometrische patroon roept een abstract schilderij op. Artistiek en decoratief.Een ontwerp La Redoute Intérieurs.Omschrijving •  100% katoen •  Recto geweven en getuft, verso effen groen •  Abstract geometrisch motief •  Ritssluiting •  Opvulkussen Terra verkocht op de siteAfmetingen •  40 x 40 cm</title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:08:49 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
+<item>
+  <title>Retro Anita Goodesign Christmas Landscape</title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:07:41 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
+<item>
+  <title>Retro  </title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:03:28 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
+<item>
+  <title>Retro  </title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 12:02:58 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
+<item>
+  <title>Retro Anita Goodesign Turkey Crazy Quilt Embroidery Designs</title>
+  <link>maisonitalique.com</link>
+  <description>undefined</description>
+  <pubDate>Mon, 31 Jan 2022 11:56:30 GMT</pubDate>
+  <image>undefined</image>
+
+</item>
 </channel>
+
 </rss>
